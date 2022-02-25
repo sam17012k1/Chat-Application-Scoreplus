@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290632834715",
+    "project_id": "scoreplus-customersupport",
+    "storage_bucket": "scoreplus-customersupport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290632834715:android:834dc21b9a9a04051cb03e",
+        "android_client_info": {
+          "package_name": "com.example.scoreplus_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290632834715-8f56lfmtef7vg27pjs3g7ahsgu2585dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArXAuU1Wsf0GfoFb6AmeiUIbzQl2Wi3r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290632834715-8f56lfmtef7vg27pjs3g7ahsgu2585dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
